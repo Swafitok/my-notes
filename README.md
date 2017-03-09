@@ -1,2 +1,3 @@
 # my-notes
-systematization, verification and organize the information received
+Systematization, verification and organize the information received
+===================================================================
