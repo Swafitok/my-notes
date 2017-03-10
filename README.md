@@ -1,5 +1,5 @@
 
-[](http://octodex.github.com/images/octdrey-catburn.jpg)
+(http://octodex.github.com/images/octdrey-catburn.jpg)
 
 # my-notes
 
