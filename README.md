@@ -1,3 +1,6 @@
+
+[](http://octodex.github.com/images/octdrey-catburn.jpg)
+
 # my-notes
 
 ###### *Systematization, verification and organize the information received*
